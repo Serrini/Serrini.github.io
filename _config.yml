@@ -1,6 +1,6 @@
 # Site settings
 title: Blog
-SEOTitle: Welcome to MY WORD
+SEOTitle: Welcome to MY WORLD
 #header-img: img/post-bg-desk.jpg
 email: everglow1717@gmail.com
 description: "Every failure is leading towards success."
@@ -12,18 +12,18 @@ github_repo: "https://github.com/serrini/serrini.github.io.git" # you code repos
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
-#sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
 RSS: false
-# weibo_username:     qiubaiying
-#zhihu_username:     qiubaiying
+weibo_username:     1942472467
+#zhihu_username:     
 github_username:    serrini
-#facebook_username:  baiying.qiu.7
+facebook_username:  lan.sun
 #jianshu_username:   e71990ada2fd
-#twitter_username:   qiubaiying
+twitter_username:   sunlan
 
 
 
@@ -60,14 +60,7 @@ kramdown:
 # disqus_username: qiubaiying
 
 # Gitalk
-gitalk:
-  enable: true    #是否开启Gitalk评论
-  clientID: f2c84e7629bb1446c1a4                            #生成的clientID
-  clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
-  repo: qiubaiying.github.io    #仓库名称
-  owner: qiubaiying    #github用户名
-  admin: qiubaiying
-  distractionFreeMode: true #是否启用类似FB的阴影遮罩
+
 
 
 # 统计
