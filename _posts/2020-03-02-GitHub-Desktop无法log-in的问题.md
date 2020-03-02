@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      GitHub-Desktop无法log-in的问题
+title:      GitHub Desktop无法log in的问题
 date:       2020-03-02            
 author:     serrini                 
 catalog: true                       
